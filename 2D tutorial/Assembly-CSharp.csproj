@@ -53,18 +53,22 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Script\GameControl.cs" />
+     <Compile Include="Assets\Script\MoveLeftCycle.cs" />
+     <Compile Include="Assets\Script\ObstacleControl.cs" />
      <Compile Include="Assets\Script\playerControls.cs" />
+     <None Include="Assets\BayatGames\Free Platform Game Assets\Readme.txt" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>/home/alan/2D tutorial/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>/home/alan/Projects/Unity/2D tutorial/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>/home/alan/2D tutorial/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>/home/alan/Projects/Unity/2D tutorial/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>/home/alan/2D tutorial/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>/home/alan/Projects/Unity/2D tutorial/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>/home/alan/2D tutorial/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>/home/alan/Projects/Unity/2D tutorial/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>/home/alan/Unity-2018.2.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
